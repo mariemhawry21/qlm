@@ -428,8 +428,8 @@ header .mobile-burger {
     display: none;
   }
   .contact .container {
-  padding-top: 50px;
-}
+    padding-top: 50px !important;
+  }
 }
 /*footer*/
 footer {
