@@ -242,6 +242,12 @@ main img {
   .additional-content .wrap {
     flex-direction: column;
   }
+  .wrap-additional{
+    padding: 20px;
+  }
+  .wrap{
+    padding: 20px;
+  }
 }
 
 .belts {

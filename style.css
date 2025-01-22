@@ -211,7 +211,7 @@ header .mobile-burger {
   .hero-section .content p {
     width: 100%;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 }
 /*About Us*/
@@ -597,7 +597,7 @@ footer .copy {
 }
 @media (max-width: 768px) {
   .features {
-    padding: 100px 100px;
+    padding: 50px;
   }
   .features .offer {
     display: grid;
