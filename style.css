@@ -756,6 +756,10 @@ footer .copy {
   .sol2 .info {
     order: 1;
   }
+  .sol .info h2 {
+    font-size: 3rem;
+    font-weight: 400;
+  }
 }
 
 .baner-battern {
