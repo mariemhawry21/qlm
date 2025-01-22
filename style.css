@@ -427,6 +427,9 @@ header .mobile-burger {
   .animate {
     display: none;
   }
+  .contact .container {
+  padding-top: 50px;
+}
 }
 /*footer*/
 footer {
